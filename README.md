@@ -1,6 +1,10 @@
 # DesafioUI-UX-Figma-LABENS
 Repositório criado para armazenar desafio de UI/UX no figma para seleção do laboratório LABENS do CERES-UFRN
 
+# Link para o projeto no Figma
+https://www.figma.com/design/5dKe81SURryBPeyjBqNOxO/Landing-Page---Gerenciador-de-Tarefas?m=dev&node-id=3-9&t=YjScfVquw9OlP2BT-1 
+
+# Considerações
 # Sobre as cores..
 A escolha e definição de cores em qualquer produção de design precisa levar em consideração principalmente duas coisas: a atração que o usuário está tendo pelo o conteúdo que está sendo exibido e se o objetivo desse conteúdo está sendo cumprido através do bom uso e harmonia das cores. 
 
