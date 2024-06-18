@@ -5,7 +5,7 @@ Repositório criado para armazenar desafio de UI/UX no figma para seleção do l
 https://www.figma.com/design/5dKe81SURryBPeyjBqNOxO/Landing-Page---Gerenciador-de-Tarefas?m=dev&node-id=3-9&t=YjScfVquw9OlP2BT-1 
 
 # Considerações
-# Sobre as cores..
+## Sobre as cores..
 A escolha e definição de cores em qualquer produção de design precisa levar em consideração principalmente duas coisas: a atração que o usuário está tendo pelo o conteúdo que está sendo exibido e se o objetivo desse conteúdo está sendo cumprido através do bom uso e harmonia das cores. 
 
 Quando um designer vai iniciar a produção de algum material gráfico para alguma marca, instituição ou qualquer outro tipo de segmento, ele pode usar uma IDV que o cliente já possua e exija o uso(já que é a IDV da sua marca) ou pode ser algo do zero, onde ele precise criar as cores da identidade visual baseadas no tipo de projeto que está fazendo, para quem está fazendo e o que estará sendo entregue por meio daquele “produto” que estará produzindo. 
